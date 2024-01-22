@@ -54,7 +54,7 @@ const BLOG = {
   ],
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
-    // '"PingFang SC"',
+    // '"PingFang SC Blod"',
     '-apple-system',
     'BlinkMacSystemFont',
     '"Hiragino Sans GB"',
